@@ -16,5 +16,7 @@ cd FibonacciHeap
 ```
 
 ## Test and Run 
+```
 1.) Run the make file
 2.) Execute the command $java hashtagcounter file_name in the same folder
+```
