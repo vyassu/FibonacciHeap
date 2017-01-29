@@ -10,6 +10,9 @@ Install latest java-jre and jdk.
 ## Download
 Clone the repository using the below mentioned command and execute the bash script.
 ```
+https://github.com/vyassu/FibonacciHeap.git
+cd FibonacciHeap
+
 ```
 
 ## Test and Run 
